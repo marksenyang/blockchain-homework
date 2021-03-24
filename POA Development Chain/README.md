@@ -31,7 +31,7 @@ Account password: markyang
 
 Ports:  
 Node 1 - 30303  
-Node 1 - 30304
+Node 2 - 30304
 
 # How to send a transaction
 - Open MyCrypto wallet 
